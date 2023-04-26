@@ -8,7 +8,7 @@
 
 1. Generate fake but semantic data：https://github.com/joke2k/faker
 
-   ### Databases
+### Databases
 
 1. Postgres configuration online recommendation: https://pgtune.leopard.in.ua/
 2. TPCH data generator: https://github.com/dragansah/tpch-dbgen
